@@ -6,7 +6,7 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - Flutter (from `.symlinks/flutter/ios-release`)
+  - Flutter (from `.symlinks/flutter/ios`)
   - webview (from `.symlinks/plugins/webview/ios`)
 
 SPEC REPOS:
@@ -15,7 +15,7 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   Flutter:
-    :path: ".symlinks/flutter/ios-release"
+    :path: ".symlinks/flutter/ios"
   webview:
     :path: ".symlinks/plugins/webview/ios"
 
